@@ -1,26 +1,35 @@
-# Ryan's Meadow
+# Ryan's Nook of the Internet
 
 *Quick note: this site is still under generation XD*
 
-<img src="pictures/IMG_6212.jpg"></img>
+If you want to actually see who I am, check out my [LinkedIn Profile](https://www.linkedin.com/in/rlay/) or my [portfolio website](https://youtu.be/dQw4w9WgXcQ)
 
-<img src="pictures/IMG_4665.jpg"></img>
+## A little bit about me
 
-<img src="pictures/IMG_4738.jpg"></img>
+I'm a student at UCSD working on finding some style because lets be honest, I don't have it yet. That `.css` file is still under iteration XD
 
-## Obligatory intro
+> "Sometimes you gotta run before you can walk" - Tony Stark
 
-I'm a student at UCSD working on finding some style because lets be honest, I don't have it yet. 
-
-> I got pretty familiar with this readme thing a while back so it's interesting to see it pop up again
+Top 3 comic movies of all time:
+1. Spiderman Enter the Spider-Verse
+2. Avenger's Infinity War
+3. Captain America Civil War
 
 ```JavaScript
-console.out("Working with TritonHacks")
+while(alive) {
+  live()
+  learn()
+  iterate()
+ }
 ```
 
-... did me a great deal of good on getting up to speed. Now I can do things like [this](https://youtu.be/dQw4w9WgXcQ) or even [time travel](#obligatory-intro) intro)
+Take aways from this page:
+- [ ] Explored my portfolio project
 
-1. list
-- [x] reward somebodies curiosity
+<img src="pictures/IMG_6212.jpg" height="500px" width="500px"></img>
 
-I'm gonna be getting above and beyond alright.. just not yet. School calls for sacrifice.
+<img src="pictures/IMG_4665.jpg" height="500px" width="500px"></img>
+
+<img src="pictures/IMG_4738.jpg" height="500px" width="500px"></img>
+
+
